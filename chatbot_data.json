@@ -1,0 +1,12 @@
+{
+    "intents": [
+        {
+            "patterns": [
+                "goodbye"
+            ],
+            "responses": [
+                "goodbye"
+            ]
+        }
+    ]
+}
